@@ -1,0 +1,7 @@
+table, th, td {
+    border: 1px solid black;
+  }
+
+ .hobbies tr td{
+    text-align: center;
+ } 
